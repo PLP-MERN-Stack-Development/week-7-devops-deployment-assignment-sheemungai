@@ -62,7 +62,7 @@ Learn how to deploy a full MERN stack application to production, implement CI/CD
   - Plan for database backups
   - Document deployment and rollback procedures
 
-## 🧪 Expected Outcome
+## n🧪 Expected Outcome
 - A fully deployed MERN stack application accessible on the internet
 - Continuous integration and deployment pipelines
 - Proper environment configuration for development, staging, and production
